@@ -1,0 +1,765 @@
+{
+  "deckCode": "AAECAQcKh6AGx6QGusEG+skGquoG1JcH25cHgpgHhJ0HyqsHCoigBImgBI7UBNGeBvPKBrDiBraUB+qnB/yvB4+xBwABA/WzBsekBvezBsekBu7eBsekBgAA",
+  "format": "Standard",
+  "heroes": [
+    {
+      "dbfId": 7,
+      "id": "HERO_01",
+      "name": "加尔鲁什·地狱咆哮",
+      "cardClass": "WARRIOR",
+      "summary": "加尔鲁什·地狱咆哮 (Warrior)"
+    }
+  ],
+  "cards": [
+    {
+      "dbfId": 102983,
+      "id": "TOY_330",
+      "name": "奇利亚斯豪华版3000型",
+      "type": "Minion",
+      "cost": 0,
+      "copies": 1,
+      "text": "你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！",
+      "summary": "(0) 奇利亚斯豪华版3000型 x1 [Minion] - 你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！",
+      "derivedSummaries": [
+        " -> 奇利亚斯豪华版3000型 [Minion] - 你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！",
+        " -> 奇利亚斯豪华版3000型 [Minion] - 你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！",
+        " -> 奇利亚斯豪华版3000型 [Minion] - 你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！",
+        " -> 奇利亚斯豪华版3000型 [Minion] - 你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！",
+        " -> 奇利亚斯豪华版3000型 [Minion] - 你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！",
+        " -> 奇利亚斯豪华版3000型 [Minion] - 你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！",
+        " -> 奇利亚斯豪华版3000型 [Minion] - 你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！",
+        " -> 奇利亚斯豪华版3000型 [Minion] - 你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！",
+        " -> 递归模块 [Minion] - 亡语：将本随从洗入你的牌库。",
+        " -> 失控模块 [Minion] - 在你的回合结束时，对你的英雄造成 3点伤害。",
+        " -> 能量模块 [Minion] - 在你的回合开始时，本随从的攻击力 翻倍。",
+        " -> 输能模块 [Minion] - 你的其他随从拥有+1攻击力。",
+        " -> 复制模块 [Minion] - 战吼：召唤一个本随从的复制。",
+        " -> 病毒模块 [Minion] - 扰魔，剧毒",
+        " -> 计数模块 [Minion] - 每有一个友方随从，本牌的法力值消耗便减少（1）点。",
+        " -> 完美模块 [Minion] - 圣盾，嘲讽，吸血，突袭。"
+      ],
+      "derived": [
+        {
+          "id": "TOY_330t5",
+          "dbfId": 110440,
+          "name": "奇利亚斯豪华版3000型",
+          "type": "Minion",
+          "cost": 0,
+          "text": "你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！"
+        },
+        {
+          "id": "TOY_330t6",
+          "dbfId": 110441,
+          "name": "奇利亚斯豪华版3000型",
+          "type": "Minion",
+          "cost": 0,
+          "text": "你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！"
+        },
+        {
+          "id": "TOY_330t7",
+          "dbfId": 110442,
+          "name": "奇利亚斯豪华版3000型",
+          "type": "Minion",
+          "cost": 0,
+          "text": "你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！"
+        },
+        {
+          "id": "TOY_330t8",
+          "dbfId": 110443,
+          "name": "奇利亚斯豪华版3000型",
+          "type": "Minion",
+          "cost": 0,
+          "text": "你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！"
+        },
+        {
+          "id": "TOY_330t9",
+          "dbfId": 110444,
+          "name": "奇利亚斯豪华版3000型",
+          "type": "Minion",
+          "cost": 0,
+          "text": "你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！"
+        },
+        {
+          "id": "TOY_330t10",
+          "dbfId": 110445,
+          "name": "奇利亚斯豪华版3000型",
+          "type": "Minion",
+          "cost": 0,
+          "text": "你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！"
+        },
+        {
+          "id": "TOY_330t11",
+          "dbfId": 110446,
+          "name": "奇利亚斯豪华版3000型",
+          "type": "Minion",
+          "cost": 0,
+          "text": "你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！"
+        },
+        {
+          "id": "TOY_330t12",
+          "dbfId": 112530,
+          "name": "奇利亚斯豪华版3000型",
+          "type": "Minion",
+          "cost": 0,
+          "text": "你可以在构筑 套牌时打造专属于自己的奇利亚斯豪华版3000型！"
+        },
+        {
+          "id": "TOY_330t92",
+          "dbfId": 104944,
+          "name": "递归模块",
+          "type": "Minion",
+          "cost": 1,
+          "text": "亡语：将本随从洗入你的牌库。"
+        },
+        {
+          "id": "TOY_330t93",
+          "dbfId": 104945,
+          "name": "失控模块",
+          "type": "Minion",
+          "cost": 2,
+          "text": "在你的回合结束时，对你的英雄造成 3点伤害。"
+        },
+        {
+          "id": "TOY_330t94",
+          "dbfId": 104946,
+          "name": "能量模块",
+          "type": "Minion",
+          "cost": 2,
+          "text": "在你的回合开始时，本随从的攻击力 翻倍。"
+        },
+        {
+          "id": "TOY_330t95",
+          "dbfId": 104947,
+          "name": "输能模块",
+          "type": "Minion",
+          "cost": 3,
+          "text": "你的其他随从拥有+1攻击力。"
+        },
+        {
+          "id": "TOY_330t97",
+          "dbfId": 104949,
+          "name": "复制模块",
+          "type": "Minion",
+          "cost": 4,
+          "text": "战吼：召唤一个本随从的复制。"
+        },
+        {
+          "id": "TOY_330t96",
+          "dbfId": 104948,
+          "name": "病毒模块",
+          "type": "Minion",
+          "cost": 4,
+          "text": "扰魔，剧毒"
+        },
+        {
+          "id": "TOY_330t98",
+          "dbfId": 104950,
+          "name": "计数模块",
+          "type": "Minion",
+          "cost": 4,
+          "text": "每有一个友方随从，本牌的法力值消耗便减少（1）点。"
+        },
+        {
+          "id": "TOY_330t99",
+          "dbfId": 104951,
+          "name": "完美模块",
+          "type": "Minion",
+          "cost": 5,
+          "text": "圣盾，嘲讽，吸血，突袭。"
+        }
+      ]
+    },
+    {
+      "dbfId": 69641,
+      "id": "CORE_EX1_410",
+      "name": "盾牌猛击",
+      "type": "Spell",
+      "cost": 1,
+      "copies": 2,
+      "text": "你每有1点护甲值，便对一个随从造成1点伤害。",
+      "summary": "(1) 盾牌猛击 x2 [Spell] - 你每有1点护甲值，便对一个随从造成1点伤害。",
+      "derivedSummaries": [],
+      "derived": []
+    },
+    {
+      "dbfId": 117716,
+      "id": "TLC_602",
+      "name": "走进失落之城",
+      "type": "Spell",
+      "cost": 1,
+      "copies": 1,
+      "text": "任务：存活10个回合。奖励：拉特维厄斯，城市之眼。",
+      "summary": "(1) 走进失落之城 x1 [Spell] - 任务：存活10个回合。奖励：拉特维厄斯，城市之眼。",
+      "derivedSummaries": [
+        " -> 拉特维厄斯，城市之眼 [Minion] - 战吼：随机获取2张勇闯安戈洛的任务奖励。将其余奖励洗入你的牌库。"
+      ],
+      "derived": [
+        {
+          "id": "TLC_602t",
+          "dbfId": 117717,
+          "name": "拉特维厄斯，城市之眼",
+          "type": "Minion",
+          "cost": 5,
+          "text": "战吼：随机获取2张勇闯安戈洛的任务奖励。将其余奖励洗入你的牌库。"
+        }
+      ]
+    },
+    {
+      "dbfId": 119786,
+      "id": "TIME_873",
+      "name": "放出鳄鱼",
+      "type": "Spell",
+      "cost": 1,
+      "copies": 2,
+      "text": "获得10点护甲值。为你的对手召唤两只2/3的鳄鱼。",
+      "summary": "(1) 放出鳄鱼 x2 [Spell] - 获得10点护甲值。为你的对手召唤两只2/3的鳄鱼。",
+      "derivedSummaries": [
+        " -> 角斗场鳄鱼 [Minion]"
+      ],
+      "derived": [
+        {
+          "id": "TIME_873t",
+          "dbfId": 119787,
+          "name": "角斗场鳄鱼",
+          "type": "Minion",
+          "cost": 2,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "dbfId": 76302,
+      "id": "CORE_EX1_606",
+      "name": "盾牌格挡",
+      "type": "Spell",
+      "cost": 2,
+      "copies": 2,
+      "text": "获得5点护甲值。抽一张牌。",
+      "summary": "(2) 盾牌格挡 x2 [Spell] - 获得5点护甲值。抽一张牌。",
+      "derivedSummaries": [],
+      "derived": []
+    },
+    {
+      "dbfId": 102225,
+      "id": "CORE_CFM_790",
+      "name": "卑劣的脏鼠",
+      "type": "Minion",
+      "cost": 2,
+      "copies": 2,
+      "text": "嘲讽，战吼：使你的对手随机从手牌中召唤一个随从。",
+      "summary": "(2) 卑劣的脏鼠 x2 [Minion] - 嘲讽，战吼：使你的对手随机从手牌中召唤一个随从。",
+      "derivedSummaries": [],
+      "derived": []
+    },
+    {
+      "dbfId": 102407,
+      "id": "TOY_907",
+      "name": "安全护目镜",
+      "type": "Spell",
+      "cost": 2,
+      "copies": 1,
+      "text": "获得6点护甲值。如果你没有护甲值，本牌的法力值消耗为（0）点。",
+      "summary": "(2) 安全护目镜 x1 [Spell] - 获得6点护甲值。如果你没有护甲值，本牌的法力值消耗为（0）点。",
+      "derivedSummaries": [],
+      "derived": []
+    },
+    {
+      "dbfId": 120975,
+      "id": "TIME_750",
+      "name": "先行打击",
+      "type": "Spell",
+      "cost": 2,
+      "copies": 2,
+      "text": "造成$3点伤害。如果你的手牌中有法力值消耗大于或等于（5）点的随从牌，抽一张随从牌。",
+      "summary": "(2) 先行打击 x2 [Spell] - 造成$3点伤害。如果你的手牌中有法力值消耗大于或等于（5）点的随从牌，抽一张随从牌。",
+      "derivedSummaries": [],
+      "derived": []
+    },
+    {
+      "dbfId": 107891,
+      "id": "VAC_949",
+      "name": "攀上新高",
+      "type": "Spell",
+      "cost": 3,
+      "copies": 2,
+      "text": "将你的法力值上限提高3点，获得一个空的法力水晶。",
+      "summary": "(3) 攀上新高 x2 [Spell] - 将你的法力值上限提高3点，获得一个空的法力水晶。",
+      "derivedSummaries": [],
+      "derived": []
+    },
+    {
+      "dbfId": 117762,
+      "id": "TLC_100",
+      "name": "导航员伊莉斯",
+      "type": "Minion",
+      "cost": 4,
+      "copies": 1,
+      "text": "战吼：如果你的套牌中的牌有10种不同的法力值消耗，制造一个自定义的地标。",
+      "summary": "(4) 导航员伊莉斯 x1 [Minion] - 战吼：如果你的套牌中的牌有10种不同的法力值消耗，制造一个自定义的地标。",
+      "derivedSummaries": [
+        " -> 安戈洛丛林 [Location] - {0}{1}",
+        " -> 恐惧小道 [Location] - {0}{1}",
+        " -> 火羽山 [Location] - {0}{1}",
+        " -> 喷涌热泉 [Spell] - 亡语：对所有敌人造成3点伤害。",
+        " -> 喷涌热泉 [Spell] - 亡语：对所有敌人造成5点伤害。",
+        " -> 喷涌热泉 [Spell] - 亡语：对所有敌人造成10点伤害。",
+        " -> 居巢之地 [Spell] - 召唤一只2/1并具有突袭的迅猛龙。",
+        " -> 居巢之地 [Spell] - 召唤三只2/1并具有突袭的迅猛龙。",
+        " -> 居巢之地 [Spell] - 召唤六只2/1并具有突袭的迅猛龙。",
+        " -> 映光水晶 [Spell] - 召唤一个友方随从的一个1/1的复制。",
+        " -> 映光水晶 [Spell] - 召唤一个友方随从的一个5/5的复制。",
+        " -> 映光水晶 [Spell] - 召唤一个友方随从的一个10/10的复制。",
+        " -> 流淌熔岩 [Spell] - 获得3点护甲值。",
+        " -> 流淌熔岩 [Spell] - 获得6点护甲值。",
+        " -> 流淌熔岩 [Spell] - 获得12点护甲值。",
+        " -> 皎洁月光 [Spell] - 你的下一个法术拥有法术伤害+1。",
+        " -> 皎洁月光 [Spell] - 你的下一个法术拥有法术伤害+2。",
+        " -> 皎洁月光 [Spell] - 你的下一个法术拥有法术伤害+4。",
+        " -> 符文雕刻 [Spell] - 发现一张法术牌，其法力值消耗减少（1）点。",
+        " -> 符文雕刻 [Spell] - 发现一张法术牌，其法力值消耗减少（4）点。",
+        " -> 符文雕刻 [Spell] - 发现一张法术牌，其法力值消耗减少（7）点。",
+        " -> 食人植物 [Spell] - 使你的角色获得在本回合中+1攻击力。",
+        " -> 食人植物 [Spell] - 使你的角色获得在本回合中+2攻击力。",
+        " -> 食人植物 [Spell] - 使你的角色获得在本回合中+4攻击力。"
+      ],
+      "derived": [
+        {
+          "id": "TLC_100t1",
+          "dbfId": 117761,
+          "name": "安戈洛丛林",
+          "type": "Location",
+          "cost": 1,
+          "text": "{0}{1}"
+        },
+        {
+          "id": "TLC_100t2",
+          "dbfId": 117760,
+          "name": "恐惧小道",
+          "type": "Location",
+          "cost": 5,
+          "text": "{0}{1}"
+        },
+        {
+          "id": "TLC_100t3",
+          "dbfId": 117759,
+          "name": "火羽山",
+          "type": "Location",
+          "cost": 10,
+          "text": "{0}{1}"
+        },
+        {
+          "id": "TLC_100t11",
+          "dbfId": 117765,
+          "name": "喷涌热泉",
+          "type": "Spell",
+          "cost": 0,
+          "text": "亡语：对所有敌人造成3点伤害。"
+        },
+        {
+          "id": "TLC_100t21",
+          "dbfId": 117764,
+          "name": "喷涌热泉",
+          "type": "Spell",
+          "cost": 0,
+          "text": "亡语：对所有敌人造成5点伤害。"
+        },
+        {
+          "id": "TLC_100t31",
+          "dbfId": 117763,
+          "name": "喷涌热泉",
+          "type": "Spell",
+          "cost": 0,
+          "text": "亡语：对所有敌人造成10点伤害。"
+        },
+        {
+          "id": "TLC_100t15",
+          "dbfId": 117768,
+          "name": "居巢之地",
+          "type": "Spell",
+          "cost": 0,
+          "text": "召唤一只2/1并具有突袭的迅猛龙。"
+        },
+        {
+          "id": "TLC_100t25",
+          "dbfId": 117769,
+          "name": "居巢之地",
+          "type": "Spell",
+          "cost": 0,
+          "text": "召唤三只2/1并具有突袭的迅猛龙。"
+        },
+        {
+          "id": "TLC_100t35",
+          "dbfId": 117770,
+          "name": "居巢之地",
+          "type": "Spell",
+          "cost": 0,
+          "text": "召唤六只2/1并具有突袭的迅猛龙。"
+        },
+        {
+          "id": "TLC_100t17",
+          "dbfId": 117842,
+          "name": "映光水晶",
+          "type": "Spell",
+          "cost": 0,
+          "text": "召唤一个友方随从的一个1/1的复制。"
+        },
+        {
+          "id": "TLC_100t27",
+          "dbfId": 117843,
+          "name": "映光水晶",
+          "type": "Spell",
+          "cost": 0,
+          "text": "召唤一个友方随从的一个5/5的复制。"
+        },
+        {
+          "id": "TLC_100t37",
+          "dbfId": 117844,
+          "name": "映光水晶",
+          "type": "Spell",
+          "cost": 0,
+          "text": "召唤一个友方随从的一个10/10的复制。"
+        },
+        {
+          "id": "TLC_100t16",
+          "dbfId": 117793,
+          "name": "流淌熔岩",
+          "type": "Spell",
+          "cost": 0,
+          "text": "获得3点护甲值。"
+        },
+        {
+          "id": "TLC_100t26",
+          "dbfId": 117808,
+          "name": "流淌熔岩",
+          "type": "Spell",
+          "cost": 0,
+          "text": "获得6点护甲值。"
+        },
+        {
+          "id": "TLC_100t36",
+          "dbfId": 117809,
+          "name": "流淌熔岩",
+          "type": "Spell",
+          "cost": 0,
+          "text": "获得12点护甲值。"
+        },
+        {
+          "id": "TLC_100t12",
+          "dbfId": 117774,
+          "name": "皎洁月光",
+          "type": "Spell",
+          "cost": 0,
+          "text": "你的下一个法术拥有法术伤害+1。"
+        },
+        {
+          "id": "TLC_100t22",
+          "dbfId": 117778,
+          "name": "皎洁月光",
+          "type": "Spell",
+          "cost": 0,
+          "text": "你的下一个法术拥有法术伤害+2。"
+        },
+        {
+          "id": "TLC_100t32",
+          "dbfId": 117777,
+          "name": "皎洁月光",
+          "type": "Spell",
+          "cost": 0,
+          "text": "你的下一个法术拥有法术伤害+4。"
+        },
+        {
+          "id": "TLC_100t13",
+          "dbfId": 117779,
+          "name": "符文雕刻",
+          "type": "Spell",
+          "cost": 0,
+          "text": "发现一张法术牌，其法力值消耗减少（1）点。"
+        },
+        {
+          "id": "TLC_100t23",
+          "dbfId": 117780,
+          "name": "符文雕刻",
+          "type": "Spell",
+          "cost": 0,
+          "text": "发现一张法术牌，其法力值消耗减少（4）点。"
+        },
+        {
+          "id": "TLC_100t33",
+          "dbfId": 117781,
+          "name": "符文雕刻",
+          "type": "Spell",
+          "cost": 0,
+          "text": "发现一张法术牌，其法力值消耗减少（7）点。"
+        },
+        {
+          "id": "TLC_100t14",
+          "dbfId": 117784,
+          "name": "食人植物",
+          "type": "Spell",
+          "cost": 0,
+          "text": "使你的角色获得在本回合中+1攻击力。"
+        },
+        {
+          "id": "TLC_100t24",
+          "dbfId": 117785,
+          "name": "食人植物",
+          "type": "Spell",
+          "cost": 0,
+          "text": "使你的角色获得在本回合中+2攻击力。"
+        },
+        {
+          "id": "TLC_100t34",
+          "dbfId": 117786,
+          "name": "食人植物",
+          "type": "Spell",
+          "cost": 0,
+          "text": "使你的角色获得在本回合中+4攻击力。"
+        }
+      ]
+    },
+    {
+      "dbfId": 69640,
+      "id": "CORE_EX1_407",
+      "name": "绝命乱斗",
+      "type": "Spell",
+      "cost": 5,
+      "copies": 2,
+      "text": "随机选择一个随从，消灭除了该随从外的所有其他随从。",
+      "summary": "(5) 绝命乱斗 x2 [Spell] - 随机选择一个随从，消灭除了该随从外的所有其他随从。",
+      "derivedSummaries": [],
+      "derived": []
+    },
+    {
+      "dbfId": 110896,
+      "id": "GDB_226",
+      "name": "凶恶的入侵者",
+      "type": "Minion",
+      "cost": 5,
+      "copies": 2,
+      "text": "战吼，法术迸发， 亡语：对所有其他随从造成2点伤害。",
+      "summary": "(5) 凶恶的入侵者 x2 [Minion] - 战吼，法术迸发， 亡语：对所有其他随从造成2点伤害。",
+      "derivedSummaries": [],
+      "derived": []
+    },
+    {
+      "dbfId": 117302,
+      "id": "EDR_979",
+      "name": "昔时古树",
+      "type": "Minion",
+      "cost": 5,
+      "copies": 2,
+      "text": "休眠2回合。休眠状态下，在你的回合结束时，获得3点护甲值并抽一张牌。",
+      "summary": "(5) 昔时古树 x2 [Minion] - 休眠2回合。休眠状态下，在你的回合结束时，获得3点护甲值并抽一张牌。",
+      "derivedSummaries": [],
+      "derived": []
+    },
+    {
+      "dbfId": 120828,
+      "id": "TIME_715",
+      "name": "为了荣耀！",
+      "type": "Spell",
+      "cost": 5,
+      "copies": 2,
+      "text": "抽两张牌。你的对手每控制一个随从，本牌的法力值消耗便减少（1）点。",
+      "summary": "(5) 为了荣耀！ x2 [Spell] - 抽两张牌。你的对手每控制一个随从，本牌的法力值消耗便减少（1）点。",
+      "derivedSummaries": [],
+      "derived": []
+    },
+    {
+      "dbfId": 107770,
+      "id": "VAC_340",
+      "name": "饥饿食客哈姆",
+      "type": "Minion",
+      "cost": 6,
+      "copies": 1,
+      "text": "德鲁伊游客 嘲讽。在你的回合结束时，吃掉敌方牌库中的一个随从以获得+2/+2。",
+      "summary": "(6) 饥饿食客哈姆 x1 [Minion] - 德鲁伊游客 嘲讽。在你的回合结束时，吃掉敌方牌库中的一个随从以获得+2/+2。",
+      "derivedSummaries": [],
+      "derived": []
+    },
+    {
+      "dbfId": 117723,
+      "id": "BG31_BOB",
+      "name": "调酒师鲍勃",
+      "type": "Minion",
+      "cost": 6,
+      "copies": 1,
+      "text": "战吼：选择一项酒馆战棋绝技！",
+      "summary": "(6) 调酒师鲍勃 x1 [Minion] - 战吼：选择一项酒馆战棋绝技！",
+      "derivedSummaries": [
+        " -> 冻结商店 [Spell] - 冻结所有敌方随从。",
+        " -> 刷新酒馆 [Spell] - 发现一张 法力值消耗为（3）的随从牌。复原3个法力水晶。",
+        " -> 寻找三连 [Spell] - 抽一张随从牌。获取2张它的复制。",
+        " -> 招募随从 [Spell] - 将一个敌方随从的一张复制置入你的手牌。你的对手获取3张幸运币。"
+      ],
+      "derived": [
+        {
+          "id": "BG31_BOBt",
+          "dbfId": 117724,
+          "name": "冻结商店",
+          "type": "Spell",
+          "cost": 0,
+          "text": "冻结所有敌方随从。"
+        },
+        {
+          "id": "BG31_BOBt3",
+          "dbfId": 117726,
+          "name": "刷新酒馆",
+          "type": "Spell",
+          "cost": 0,
+          "text": "发现一张 法力值消耗为（3）的随从牌。复原3个法力水晶。"
+        },
+        {
+          "id": "BG31_BOBt4",
+          "dbfId": 117727,
+          "name": "寻找三连",
+          "type": "Spell",
+          "cost": 0,
+          "text": "抽一张随从牌。获取2张它的复制。"
+        },
+        {
+          "id": "BG31_BOBt2",
+          "dbfId": 117725,
+          "name": "招募随从",
+          "type": "Spell",
+          "cost": 0,
+          "text": "将一个敌方随从的一张复制置入你的手牌。你的对手获取3张幸运币。"
+        }
+      ]
+    },
+    {
+      "dbfId": 106682,
+      "id": "VAC_702",
+      "name": "经理马林",
+      "type": "Minion",
+      "cost": 7,
+      "copies": 1,
+      "text": "战吼：选择一张神奇宝藏。将其余3张洗入你的牌库。",
+      "summary": "(7) 经理马林 x1 [Minion] - 战吼：选择一张神奇宝藏。将其余3张洗入你的牌库。",
+      "derivedSummaries": [
+        " -> 扎罗格的王冠 [Spell] - 发现一张传说随从牌。召唤两个它的复制。",
+        " -> 奇迹之杖 [Spell] - 抽三张牌，其法力值消耗减少（3）点。",
+        " -> 托林的酒杯 [Spell] - 抽一张牌。用它的复制填满你的手牌。",
+        " -> 黄金狗头人 [Minion] - 嘲讽，战吼：将你的手牌替换成传说随从，其法力值消耗减少（1）点。"
+      ],
+      "derived": [
+        {
+          "id": "VAC_702t",
+          "dbfId": 114400,
+          "name": "扎罗格的王冠",
+          "type": "Spell",
+          "cost": 3,
+          "text": "发现一张传说随从牌。召唤两个它的复制。"
+        },
+        {
+          "id": "VAC_702t3",
+          "dbfId": 114403,
+          "name": "奇迹之杖",
+          "type": "Spell",
+          "cost": 3,
+          "text": "抽三张牌，其法力值消耗减少（3）点。"
+        },
+        {
+          "id": "VAC_702t2",
+          "dbfId": 114402,
+          "name": "托林的酒杯",
+          "type": "Spell",
+          "cost": 3,
+          "text": "抽一张牌。用它的复制填满你的手牌。"
+        },
+        {
+          "id": "VAC_702t4",
+          "dbfId": 114404,
+          "name": "黄金狗头人",
+          "type": "Minion",
+          "cost": 3,
+          "text": "嘲讽，战吼：将你的手牌替换成传说随从，其法力值消耗减少（1）点。"
+        }
+      ]
+    },
+    {
+      "dbfId": 118404,
+      "id": "DINO_401",
+      "name": "伟岸的德拉克雷斯",
+      "type": "Minion",
+      "cost": 8,
+      "copies": 1,
+      "text": "突袭。在本随从攻击一个敌方随从后，还会对所有其他敌方随从造成伤害。",
+      "summary": "(8) 伟岸的德拉克雷斯 x1 [Minion] - 突袭。在本随从攻击一个敌方随从后，还会对所有其他敌方随从造成伤害。",
+      "derivedSummaries": [],
+      "derived": []
+    },
+    {
+      "dbfId": 120266,
+      "id": "TIME_024",
+      "name": "无限巨龙姆诺兹多",
+      "type": "Minion",
+      "cost": 9,
+      "copies": 1,
+      "text": "战吼：在你的下个回合开始时，将本随从的攻击力变为无穷大！",
+      "summary": "(9) 无限巨龙姆诺兹多 x1 [Minion] - 战吼：在你的下个回合开始时，将本随从的攻击力变为无穷大！",
+      "derivedSummaries": [],
+      "derived": []
+    },
+    {
+      "dbfId": 111914,
+      "id": "GDB_142",
+      "name": "无界空宇",
+      "type": "Minion",
+      "cost": 125,
+      "copies": 1,
+      "text": "每当一张牌被抽到，使用或摧毁时，本牌的法力值消耗便减少（1）点。战吼：消灭所有其他随从。",
+      "summary": "(125) 无界空宇 x1 [Minion] - 每当一张牌被抽到，使用或摧毁时，本牌的法力值消耗便减少（1）点。战吼：消灭所有其他随从。",
+      "derivedSummaries": [],
+      "derived": []
+    }
+  ],
+  "sideboards": [
+    {
+      "ownerDbfId": 102983,
+      "ownerName": "奇利亚斯豪华版3000型",
+      "cards": [
+        {
+          "dbfId": 104949,
+          "id": null,
+          "name": null,
+          "type": null,
+          "cost": null,
+          "copies": 1,
+          "text": "",
+          "missing": true,
+          "summary": "Unknown card (dbfId=104949) x1",
+          "derivedSummaries": [],
+          "derived": []
+        },
+        {
+          "dbfId": 104951,
+          "id": null,
+          "name": null,
+          "type": null,
+          "cost": null,
+          "copies": 1,
+          "text": "",
+          "missing": true,
+          "summary": "Unknown card (dbfId=104951) x1",
+          "derivedSummaries": [],
+          "derived": []
+        },
+        {
+          "dbfId": 110446,
+          "id": null,
+          "name": null,
+          "type": null,
+          "cost": null,
+          "copies": 1,
+          "text": "",
+          "missing": true,
+          "summary": "Unknown card (dbfId=110446) x1",
+          "derivedSummaries": [],
+          "derived": []
+        }
+      ]
+    }
+  ],
+  "name": "AAECAQcKh6AG"
+}
